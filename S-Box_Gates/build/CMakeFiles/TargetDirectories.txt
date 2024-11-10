@@ -1,0 +1,7 @@
+/root/Documents/ReInfoSec/sboxgates/build/CMakeFiles/sboxgates.dir
+/root/Documents/ReInfoSec/sboxgates/build/CMakeFiles/edit_cache.dir
+/root/Documents/ReInfoSec/sboxgates/build/CMakeFiles/rebuild_cache.dir
+/root/Documents/ReInfoSec/sboxgates/build/CMakeFiles/list_install_components.dir
+/root/Documents/ReInfoSec/sboxgates/build/CMakeFiles/install.dir
+/root/Documents/ReInfoSec/sboxgates/build/CMakeFiles/install/local.dir
+/root/Documents/ReInfoSec/sboxgates/build/CMakeFiles/install/strip.dir

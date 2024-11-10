@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gates>
+  <output bit="0" gate="75" />
+  <gate type="IN" />
+  <gate type="IN" />
+  <gate type="IN" />
+  <gate type="IN" />
+  <gate type="IN" />
+  <gate type="IN" />
+  <gate type="IN" />
+  <gate type="IN" />
+  <gate type="NOT">
+    <input gate="3" />
+  </gate>
+  <gate type="OR">
+    <input gate="7" />
+    <input gate="6" />
+  </gate>
+  <gate type="XOR">
+    <input gate="8" />
+    <input gate="9" />
+  </gate>
+  <gate type="AND">
+    <input gate="10" />
+    <input gate="0" />
+  </gate>
+  <gate type="XOR">
+    <input gate="7" />
+    <input gate="11" />
+  </gate>
+  <gate type="OR">
+    <input gate="11" />
+    <input gate="12" />
+  </gate>
+  <gate type="XOR">
+    <input gate="13" />
+    <input gate="3" />
+  </gate>
+  <gate type="AND">
+    <input gate="14" />
+    <input gate="7" />
+  </gate>
+  <gate type="XOR">
+    <input gate="15" />
+    <input gate="0" />
+  </gate>
+  <gate type="OR">
+    <input gate="16" />
+    <input gate="6" />
+  </gate>
+  <gate type="XOR">
+    <input gate="14" />
+    <input gate="17" />
+  </gate>
+  <gate type="OR">
+    <input gate="18" />
+    <input gate="1" />
+  </gate>
+  <gate type="XOR">
+    <input gate="12" />
+    <input gate="19" />
+  </gate>
+  <gate type="OR">
+    <input gate="8" />
+    <input gate="1" />
+  </gate>
+  <gate type="AND">
+    <input gate="21" />
+    <input gate="18" />
+  </gate>
+  <gate type="AND">
+    <input gate="20" />
+    <input gate="21" />
+  </gate>
+  <gate type="XOR">
+    <input gate="23" />
+    <input gate="3" />
+  </gate>
+  <gate type="AND">
+    <input gate="24" />
+    <input gate="0" />
+  </gate>
+  <gate type="XOR">
+    <input gate="22" />
+    <input gate="25" />
+  </gate>
+  <gate type="AND">
+    <input gate="26" />
+    <input gate="4" />
+  </gate>
+  <gate type="XOR">
+    <input gate="20" />
+    <input gate="27" />
+  </gate>
+  <gate type="NOT">
+    <input gate="16" />
+  </gate>
+  <gate type="AND">
+    <input gate="25" />
+    <input gate="3" />
+  </gate>
+  <gate type="XOR">
+    <input gate="29" />
+    <input gate="30" />
+  </gate>
+  <gate type="XOR">
+    <input gate="26" />
+    <input gate="8" />
+  </gate>
+  <gate type="XOR">
+    <input gate="32" />
+    <input gate="20" />
+  </gate>
+  <gate type="OR">
+    <input gate="33" />
+    <input gate="6" />
+  </gate>
+  <gate type="XOR">
+    <input gate="31" />
+    <input gate="34" />
+  </gate>
+  <gate type="AND">
+    <input gate="22" />
+    <input gate="24" />
+  </gate>
+  <gate type="XOR">
+    <input gate="36" />
+    <input gate="29" />
+  </gate>
+  <gate type="AND">
+    <input gate="19" />
+    <input gate="0" />
+  </gate>
+  <gate type="XOR">
+    <input gate="38" />
+    <input gate="13" />
+  </gate>
+  <gate type="OR">
+    <input gate="39" />
+    <input gate="1" />
+  </gate>
+  <gate type="XOR">
+    <input gate="37" />
+    <input gate="40" />
+  </gate>
+  <gate type="AND">
+    <input gate="41" />
+    <input gate="4" />
+  </gate>
+  <gate type="XOR">
+    <input gate="35" />
+    <input gate="42" />
+  </gate>
+  <gate type="OR">
+    <input gate="43" />
+    <input gate="2" />
+  </gate>
+  <gate type="XOR">
+    <input gate="28" />
+    <input gate="44" />
+  </gate>
+  <gate type="AND">
+    <input gate="1" />
+    <input gate="43" />
+  </gate>
+  <gate type="XOR">
+    <input gate="46" />
+    <input gate="33" />
+  </gate>
+  <gate type="OR">
+    <input gate="37" />
+    <input gate="42" />
+  </gate>
+  <gate type="XOR">
+    <input gate="48" />
+    <input gate="32" />
+  </gate>
+  <gate type="AND">
+    <input gate="49" />
+    <input gate="2" />
+  </gate>
+  <gate type="XOR">
+    <input gate="47" />
+    <input gate="50" />
+  </gate>
+  <gate type="AND">
+    <input gate="51" />
+    <input gate="49" />
+  </gate>
+  <gate type="XOR">
+    <input gate="52" />
+    <input gate="14" />
+  </gate>
+  <gate type="OR">
+    <input gate="4" />
+    <input gate="32" />
+  </gate>
+  <gate type="AND">
+    <input gate="54" />
+    <input gate="35" />
+  </gate>
+  <gate type="OR">
+    <input gate="55" />
+    <input gate="2" />
+  </gate>
+  <gate type="XOR">
+    <input gate="53" />
+    <input gate="56" />
+  </gate>
+  <gate type="AND">
+    <input gate="57" />
+    <input gate="0" />
+  </gate>
+  <gate type="XOR">
+    <input gate="51" />
+    <input gate="58" />
+  </gate>
+  <gate type="OR">
+    <input gate="58" />
+    <input gate="45" />
+  </gate>
+  <gate type="XOR">
+    <input gate="60" />
+    <input gate="18" />
+  </gate>
+  <gate type="OR">
+    <input gate="61" />
+    <input gate="4" />
+  </gate>
+  <gate type="XOR">
+    <input gate="36" />
+    <input gate="62" />
+  </gate>
+  <gate type="OR">
+    <input gate="48" />
+    <input gate="61" />
+  </gate>
+  <gate type="XOR">
+    <input gate="64" />
+    <input gate="2" />
+  </gate>
+  <gate type="XOR">
+    <input gate="5" />
+    <input gate="3" />
+  </gate>
+  <gate type="AND">
+    <input gate="66" />
+    <input gate="53" />
+  </gate>
+  <gate type="OR">
+    <input gate="67" />
+    <input gate="4" />
+  </gate>
+  <gate type="XOR">
+    <input gate="65" />
+    <input gate="68" />
+  </gate>
+  <gate type="OR">
+    <input gate="69" />
+    <input gate="1" />
+  </gate>
+  <gate type="XOR">
+    <input gate="63" />
+    <input gate="70" />
+  </gate>
+  <gate type="AND">
+    <input gate="71" />
+    <input gate="6" />
+  </gate>
+  <gate type="XOR">
+    <input gate="59" />
+    <input gate="72" />
+  </gate>
+  <gate type="OR">
+    <input gate="73" />
+    <input gate="5" />
+  </gate>
+  <gate type="XOR">
+    <input gate="45" />
+    <input gate="74" />
+  </gate>
+</gates>
