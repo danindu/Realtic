@@ -1,6 +1,5 @@
 
-[![Reinforsec](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/Sohan245/Realtic)
-
+[![Realtic](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/Sohan245/Realtic)
 
 # Realtic - vulnerability assessment tool
 
@@ -23,20 +22,21 @@ Realtic, is a versatile cybersecurity tool designed with a PyQt based graphical 
     - PDF
     - XML
     - PUB
-
     
 
 - Real-Time Graphical Output Display
-   - Shows tool outputs live within the application for quick review
+    Shows tool outputs live within the application for quick review
 
 - Terminal Display
-   - Shows tool outputs live within the application for quick review
+    Shows tool outputs live within the application for quick review
 
 
 ## Demo
 
+<a href="https://drive.google.com/file/d/1DZ_Gc6PCG-RoFeZj3NeeNwJ4Y7q-gR2t/view?usp=sharing">
+  <img src="https://drive.google.com/thumbnail?id=1DZ_Gc6PCG-RoFeZj3NeeNwJ4Y7q-gR2t" alt="Watch the video" width="800">
+</a>
 
-[https://drive.google.com/file/d/1-p6qru6LUAYRosSGClemTEHBdw1oOn9G/view?usp=drive_link]
 ## Installation
 
 Clone the repository:
@@ -56,7 +56,7 @@ sudo apt install python3 python3-pip python3-pyqt5 -y
 pip3 install pyqt5 rsa rsactftool
 ```
 
-### Run
+### Usage
 
 Launch the application by executing:
 
@@ -64,4 +64,84 @@ Launch the application by executing:
 python realtic.py
 ```
 
+### Configuration
+
+#### Tool Parameters
+
+Customize parameters for each selected tool (e.g., hash threshold or maximum
+rounds) based on your analysis needs, allowing for tailored execution
+
+#### File Type Selection
+
+Ensure correct file formats are selected per tool requirement, such as “.pdf” files for
+SHA1CollisionDetection and “.txt” files for BreakOTS, to facilitate accurate
+processing
+
+
+
+
+
+## Deployment
+
+To deploy this application:
+
+Ensure all dependencies are installed.
+Package the application using a tool like PyInstaller.
+```bash
+pyinstaller --onefile app.py
+```
+Distribute the generated executable to users.
+
+
+
+
+## Contributing
+
+Contributions are always welcome!
+
+Realtic welcomes contributions from the community. Here’s a detailed guide on how to get involved:
+
+### Fork the Repository
+
+Click the Fork button on the GitHub repository to create your own copy.
+
+### Create a Feature Branch
+
+Create a new branch for your feature
+
+```bash
+git checkout -b feature/your-feature-name
+```
+### Commit Your Changes
+
+```bash
+git commit -m "Add detailed feature description"
+```
+
+### Push the Branch
+
+```bash
+git push origin feature/your-feature-name
+```
+
+### Create a Pull Request
+Once pushed, open a pull request (PR) on GitHub to merge your changes into the main repository.
+
+
+## Acknowledgements
+
+ - [Python Documentation](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [](https://github.com/matiassingers/awesome-readme)
+ - [](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+
+## Authors
+
+- [@Sohan245](https://github.com/Sohan245/)
+- 
+- [@Danindu](https://github.com/danindu)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
