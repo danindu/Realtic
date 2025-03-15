@@ -1,6 +1,3 @@
-
-[![Realtic](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/Sohan245/Realtic)
-
 # Realtic - vulnerability assessment tool
 
 Realtic, is a versatile cybersecurity tool designed with a PyQt based graphical user interface. It streamlines cryptographic operations and vulnerability assessments by integrating multiple specialized tools into a single, cohesive application. The design prioritizes simplicity and efficiency, making it ideal for security professionals and enthusiasts looking to conduct quick scans and analyses without the hassle of managing several disparate command-line tools.
@@ -136,12 +133,6 @@ Once pushed, open a pull request (PR) on GitHub to merge your changes into the m
 
 
 ## Authors
-
-- [@Sohan245](https://github.com/Sohan245/)
-- 
-- [@Danindu](https://github.com/danindu)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
+- Samarth Bhat 
+- Sohan Simhar Prabakar [@Sohan245](https://github.com/Sohan245/)
+- Danindu Gammanpilage [@Danindu](https://github.com/danindu)
