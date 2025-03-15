@@ -30,9 +30,7 @@ Realtic, is a versatile cybersecurity tool designed with a PyQt based graphical 
 
 ## Demo
 
-<a href="https://drive.google.com/file/d/1DZ_Gc6PCG-RoFeZj3NeeNwJ4Y7q-gR2t/view?usp=sharing">
-  <img src="https://drive.google.com/thumbnail?id=1DZ_Gc6PCG-RoFeZj3NeeNwJ4Y7q-gR2t" alt="Watch the video" width="800">
-</a>
+[![TUTORIAL VIDEO](https://img.youtube.com/vi/Q6xYT5xk0I0/0.jpg)](https://www.youtube.com/watch?v=Q6xYT5xk0I0)
 
 ## Installation
 
@@ -124,15 +122,7 @@ git push origin feature/your-feature-name
 ### Create a Pull Request
 Once pushed, open a pull request (PR) on GitHub to merge your changes into the main repository.
 
-
-## Acknowledgements
-
- - [Python Documentation](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [](https://github.com/matiassingers/awesome-readme)
- - [](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
 ## Authors
-- Samarth Bhat 
-- Sohan Simhar Prabakar [@Sohan245](https://github.com/Sohan245/)
-- Danindu Gammanpilage [@Danindu](https://github.com/danindu)
+- Samarth Bhat (Samarth@reinfosec.com)
+- Sohan Simhar Prabakar ([@Sohan245](https://github.com/Sohan245/))
+- Danindu Gammanpilage ([@Danindu](https://github.com/danindu))
