@@ -39,7 +39,7 @@ Realtic, is a versatile cybersecurity tool designed with a PyQt based graphical 
 Clone the repository:
 
 ```bash
-git clone https://github.com/Sohan245/Realtic.git
+git clone https://github.com/danindu/Realtic.git
 cd realtic
 ```
 
