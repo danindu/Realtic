@@ -252,15 +252,5 @@ You can follow the instructions at : `https://www.mersenneforum.org/showthread.p
 - Support multiprime RSA, the project currently supports textbook RSA.
 - Wanted feature: Ransomware decrypter.
 
-## Contributing
-
-- Please read the [CONTRIBUTING.md](CONTRIBUTING.md) guideline for the bare minimum acceptable PRs.
-- Also please read the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), any contribution of any user not honoring it will ignored and the user blocked, good manners are paramount.
-
-## Thanks to all our Contributors
-
-<a href="https://github.com/RsaCtfTool/RsaCtfTool/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=RsaCtfTool/RsaCtfTool" />
-</a>
 
 <p align="right"><a href="#top">🔼 Back to top</a></p>
