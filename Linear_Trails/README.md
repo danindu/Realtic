@@ -7,11 +7,6 @@ Applications to CAESAR Candidates", which is presented at AsiaCrypt 2015, an
 online version is available [here](https://eprint.iacr.org/2015/1200). If you
 use this tool in your work, it would be nice to cite the research paper.
 
-Authors
--------
-- Christoph Dobraunig (<christoph.dobraunig@iaik.tugraz.at>)
-- Maria Eichlseder (<maria.eichlseder@iaik.tugraz.at>)
-- Florian Mendel (<florian.mendel@iaik.tugraz.at>)
 
 Build
 -----
