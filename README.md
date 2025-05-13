@@ -105,9 +105,10 @@ git push origin feature/your-feature-name
 ### Create a Pull Request
 Once pushed, open a pull request (PR) on GitHub to merge your changes into the main repository.
 
-### Acknowledgements
+## Acknowledgements
 
 We sincerely thank all open-source developers and contributors for their invaluable contributions, which make tools like Realtic possible.
+
 
 ## Authors
 - Samarth Bhat (Samarth@reinfosec.com)
