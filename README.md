@@ -6,7 +6,7 @@ Realtic, is a versatile cybersecurity tool designed with a PyQt based graphical 
 ## Features
 
 - Tool Selection 
-    There are 4 types of Tools you could Select
+    There are 5 types of Tools you could Select
      - Linear Trails
     -   SHA1 Collision Detection
     - Break OTS
@@ -73,23 +73,6 @@ SHA1CollisionDetection and “.txt” files for BreakOTS, to facilitate accurate
 processing
 
 
-
-
-
-## Deployment
-
-To deploy this application:
-
-Ensure all dependencies are installed.
-Package the application using a tool like PyInstaller.
-```bash
-pyinstaller --onefile app.py
-```
-Distribute the generated executable to users.
-
-
-
-
 ## Contributing
 
 Contributions are always welcome!
@@ -121,6 +104,10 @@ git push origin feature/your-feature-name
 
 ### Create a Pull Request
 Once pushed, open a pull request (PR) on GitHub to merge your changes into the main repository.
+
+### Acknowledgements
+
+We sincerely thank all open-source developers and contributors for their invaluable contributions, which make tools like Realtic possible.
 
 ## Authors
 - Samarth Bhat (Samarth@reinfosec.com)
