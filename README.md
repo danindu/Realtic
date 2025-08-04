@@ -109,6 +109,13 @@ Once pushed, open a pull request (PR) on GitHub to merge your changes into the m
 
 We sincerely thank all open-source developers and contributors for their invaluable contributions, which make tools like Realtic possible.
 
+* **[RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool)**: For its comprehensive library and algorithms for factoring RSA public keys, which form a core part of our cryptanalysis capabilities.
+* **[lineartrails](https://github.com/iaikkrypto/lineartrails)**: For the implementation of tools used in the cryptanalysis of linear trails in cryptographic primitives.
+* **[sboxgates](https://github.com/dansarie/sboxgates)**: For providing the logic for generating S-boxes from basic Boolean gates, used within our cryptographic construction modules.
+* **[sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection)**: For the implementation of SHA-1 collision detection, adapted for use in our integrity-checking and analysis features.
+* **[PersichettiOTScryptanalysis](https://github.com/deneuville/PersichettiOTScryptanalysis)**: For the cryptanalysis techniques related to the Persichetti one-time signature scheme, which inspired parts of our analysis engine.
+
+We extend our sincere thanks to the authors and maintainers of these repositories for their dedication to open-source software.
 
 ## Authors
 - Samarth Bhat (Samarth@reinfosec.com)
