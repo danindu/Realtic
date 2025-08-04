@@ -1,10 +1,18 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-from functools import reduce, cache
+from functools import reduce
 import math
 import logging
 import random
+import functools
+
+try:
+    cache = functools.cache
+except AttributeError:
+    from functools import lru_cache
+    def cache(user_function):
+        return lru_cache(maxsize=None)(user_function)
 
 logger = logging.getLogger("global_logger")
 
